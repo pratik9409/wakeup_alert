@@ -1,4 +1,4 @@
-# wakeup_alert
+# Baby Wake-Up Alert System
 
 The project was made for the babies. As babies when wakeup and try to crwal on bed and sometimes they fall. So to prevent falling from bed created a Baby Wake Up Alert system. That will give an alert on your phone as soon as baby wakes up.
 
